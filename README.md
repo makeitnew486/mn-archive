@@ -1,10 +1,10 @@
-# FBKR Weekly Intelligence
+# Weekly Insight Archive
 
 Internal newsletter for authorized users only.
 
 🔒 **Password required.**
 
-If you don't have the access password, please contact your team lead.
+If you don't have the access password, please contact the publisher.
 
 ---
 
