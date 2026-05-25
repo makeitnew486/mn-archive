@@ -1,0 +1,36 @@
+# 절대 GitHub에 올라가면 안 되는 파일들 (실수 방지)
+# 이 deploy/ 폴더에는 secure 버전 HTML과 썸네일, README만 들어가야 함
+
+# 모든 파일 차단
+*
+
+# 그 다음 화이트리스트로 허용
+!index.html
+!thumbnail.png
+!README.md
+!.gitignore
+!CNAME
+
+# 실명/익명 버전 (혹시 실수로 복사되면)
+*latest.html
+*anon*.html
+전략영업부_뉴스_2026*.html
+
+# 데이터 파일
+data/
+*.json
+*.xlsx
+*.csv
+
+# Python 캐시
+__pycache__/
+*.pyc
+
+# 비밀
+config.json
+*.env
+.env*
+
+# 시스템 파일
+.DS_Store
+Thumbs.db
