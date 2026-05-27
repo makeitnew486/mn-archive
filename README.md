@@ -2,9 +2,7 @@
 
 Internal newsletter for authorized users only.
 
-🔒 **Password required.**
-
-If you don't have the access password, please contact the publisher.
+If you don't have access to this content, please contact the publisher.
 
 ---
 
