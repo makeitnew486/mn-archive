@@ -6,6 +6,7 @@
 
 # 그 다음 화이트리스트로 허용
 !index.html
+!archive.html
 !thumbnail.png
 !README.md
 !.gitignore
